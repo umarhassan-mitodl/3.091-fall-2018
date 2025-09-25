@@ -1,0 +1,72 @@
+leftnav:
+- identifier: aafc413a-8b97-24de-8ea1-ebaa3479499f
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 01630360-4a0e-e006-7f75-e170bc9a60d9
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: b7b2766c-e267-d389-0bc2-1fcc7255656f
+  name: "Interview: \"Why this Matters\u201D Moments"
+  pageRef: /pages/instructor-insights/interview-why-this-matters
+  parent: 01630360-4a0e-e006-7f75-e170bc9a60d9
+  weight: 30
+- identifier: 3ef053f7-f4e8-9d36-fea4-7410a47f1c2b
+  name: 'Interview: Hands-on Learning'
+  pageRef: /pages/instructor-insights/interview-hands-on-learning
+  parent: 01630360-4a0e-e006-7f75-e170bc9a60d9
+  weight: 40
+- identifier: 24883e67-2898-17cd-6cbe-046c4c3dc01d
+  name: 'Interview: Goodie Bags'
+  pageRef: /pages/instructor-insights/interview-goodie-bags
+  parent: 01630360-4a0e-e006-7f75-e170bc9a60d9
+  weight: 50
+- identifier: c5f7e72d-f1c5-ff7e-95b4-98214eab4e24
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 60
+- identifier: d49e8bd7-c1b7-98fb-514e-71379622e45c
+  name: Why This Matters
+  pageRef: /pages/why-this-matters-videos
+  weight: 70
+- identifier: a3e7d35c-a442-1355-9e11-8dc7fdaf3aa0
+  name: Readings
+  pageRef: /pages/readings
+  weight: 80
+- identifier: 67bc8622-1cd7-acb5-5aa4-caa98556d6a0
+  name: Goodie Bag Tutorials and Problems
+  pageRef: /pages/goodie-bags
+  weight: 90
+- identifier: 0f7c1c3a-35b7-6533-8887-33acdac458e1
+  name: Recitations
+  pageRef: /pages/recitations
+  weight: 100
+- identifier: bff80681-8388-78d6-9ce8-1723cf37df0e
+  name: Practice Problems
+  pageRef: /pages/practice-problems
+  weight: 110
+- identifier: fa2efb82-0261-4fe8-ce81-3105145f7d8c
+  name: Exams and Quizzes
+  pageRef: /pages/exams-and-quizzes
+  weight: 120
+- identifier: d0905faf-2533-b54e-70ef-3d22d818c691
+  name: Resource Index
+  pageRef: /pages/resource-index
+  weight: 130
+- identifier: 0f7c1c3a-35b7-6533-8887-33acdac458e1
+  name: Recitations
+  pageRef: /pages/recitations
+  weight: 140
+- identifier: bff80681-8388-78d6-9ce8-1723cf37df0e
+  name: Practice Problems
+  pageRef: /pages/practice-problems
+  weight: 150
+- identifier: fa2efb82-0261-4fe8-ce81-3105145f7d8c
+  name: Exams and Quizzes
+  pageRef: /pages/exams-and-quizzes
+  weight: 160
+- identifier: d0905faf-2533-b54e-70ef-3d22d818c691
+  name: Resource Index
+  pageRef: /pages/resource-index
+  weight: 170
