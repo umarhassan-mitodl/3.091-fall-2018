@@ -3,6 +3,8 @@ content_type: page
 description: "In this section, Prof. Jeffrey Grossman discusses what inspired him\
   \ to create \u201Cgoodie bags\u201D for the students in 3.091 Introduction to Solid\
   \ State Chemistry."
+hide_download: true
+hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

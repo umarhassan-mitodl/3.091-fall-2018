@@ -4,6 +4,8 @@ description: ''
 file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/e74f5d3273ce626a9d6c88e3ee09cde8_MIT3_091F18_Arrhenius.pdf
 file_size: 281195
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
