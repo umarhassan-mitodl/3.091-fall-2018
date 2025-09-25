@@ -4,6 +4,8 @@ description: ''
 file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/190df79ce4ce995ba81a9d6ebae5ca88_MIT3_091F18_Diffusion.pdf
 file_size: 838097
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: ''
 file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/71a097958c9af797a5bde7882eedd909_MIT3_091F18_ChemATLAS_3.pdf
 file_size: 1734093
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

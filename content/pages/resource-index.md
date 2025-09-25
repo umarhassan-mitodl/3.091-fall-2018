@@ -2,6 +2,8 @@
 content_type: page
 description: This resource index gives users access to most of the course resources
   in a single location.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Resource Index

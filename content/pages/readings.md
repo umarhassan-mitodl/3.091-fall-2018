@@ -2,6 +2,8 @@
 content_type: page
 description: This section includes the companion notes for the lectures as well as
   a few extra handouts.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

@@ -4,6 +4,8 @@ description: ''
 file: /courses/3-091-introduction-to-solid-state-chemistry-fall-2018/L0b9wq0js4I_transcript.pdf
 file_size: 95030
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
