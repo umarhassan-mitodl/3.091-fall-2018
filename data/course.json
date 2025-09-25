@@ -1,0 +1,58 @@
+{
+  "term": "Fall",
+  "year": "2018",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Chemical Engineering"
+    ],
+    [
+      "Engineering",
+      "Materials Science and Engineering"
+    ],
+    [
+      "Science",
+      "Chemistry"
+    ]
+  ],
+  "legacy_uid": "9fea103a-92e1-9200-7641-dda09d9671af",
+  "instructors": {
+    "content": [
+      "67f629ee-36d9-1e97-77e9-eb3156b3de7b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1bd05280-76c7-5313-9608-44cd7028ab92",
+    "website": "3-091-introduction-to-solid-state-chemistry-fall-2018"
+  },
+  "course_title": "Introduction to Solid-State Chemistry",
+  "hide_download": false,
+  "site_short_id": "3.091-fall-2018",
+  "mit_learn_topics": [],
+  "course_description": "In this course, we will explore what makes things in the world the way they are and why, to understand the science and consider the engineering. We learn not only why the physical world behaves the way it does, but also how to think with chemical intuition, which can\u2019t be gained simply by observing the macroscopic world.\n\nThis 2018 version of 3.091 by Jeffrey Grossman and the 2010 OCW version by Don Sadoway cover similar topics and both provide complete learning materials. This 2018 version also includes Jeffrey Grossman\u2019s innovative Goodie Bags, Why This Matters, and CHEMATLAS content, as well as additional practice problems, quizzes, and exams.\n",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "3.091",
+  "course_image_thumbnail": {
+    "content": "eebdfd9d-934f-569a-8a71-f1534e11eb22",
+    "website": "3-091-introduction-to-solid-state-chemistry-fall-2018"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Tutorial Videos",
+    "Problem Sets with Solutions",
+    "Exams",
+    "Open Textbooks",
+    "Instructor Insights",
+    "Podcasts"
+  ],
+  "site_uid": "8c4a1c15-b639-44ed-9f21-98cd7cb11960",
+  "site_url_path": "courses/3-091-introduction-to-solid-state-chemistry-fall-2018",
+  "title": "Course Metadata"
+}
